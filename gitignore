@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pbix.autosave
+.vscode/
+Thumbs.db
+Desktop.ini
+.DS_Store
